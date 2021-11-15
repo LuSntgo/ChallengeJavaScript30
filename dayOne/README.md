@@ -1,10 +1,9 @@
+## Drum Kit
 
-## A note on Pull Requests
+A website created to train JavaScript concepts. I used functions, forEach, DOM and added effects to CSS to make it more enjoyable and interactive.
 
-These are meant to be 1:1 copies of what is done in the video. If you found a better / different way to do things, great, but I will be keeping them the same as the videos.
-
-The starter files + solutions will be updated if/when the videos are updated.
+On this site, you can use the keyboard to listen to sound effects and who knows, create a melody of your own.
 
 Thanks!
 
-<a href="https://lusntgo.github.io/ChallengeJavaScript30/"> <img src='img/image.png' width='150'> </a>
+<a href="https://lusntgo.github.io/ChallengeJavaScript30/"> <img src='img/image.png' width='500' height='285'> </a>
