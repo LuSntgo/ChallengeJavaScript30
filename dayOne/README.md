@@ -6,4 +6,4 @@ On this site, you can use the keyboard to listen to sound effects and who knows,
 
 Thanks!
 
-<a href="https://lusntgo.github.io/ChallengeJavaScript30/"> <img src='img/image.png' width='500' height='285'> </a>
+<a href="https://lusntgo.github.io/ChallengeJavaScript30/dayOne/index.html"> <img src='img/image.png' width='500' height='285'> </a>
